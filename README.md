@@ -30,3 +30,7 @@ wa.send_message(phone_number='1234567890', message='Hello, World!')
 ```
 
 
+---
+Developed with ❤️ by Abdelhak Zaaim
+
+[![Follow on GitHub](https://img.shields.io/github/followers/aabdelhak-zaaim?label=Follow&style=social)](https://github.com/abdelhak-zaaim)
