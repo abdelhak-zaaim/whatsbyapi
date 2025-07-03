@@ -1,6 +1,8 @@
 # WhatsByAPI
 
-WhatsByAPI is a Python wrapper for the WhatsApp Cloud API with Webhook support.
+> ⚠️ This project is based on [pywa](https://github.com/david-lev/pywa), created by David Lev.  
+> The original project is licensed under the MIT License.  
+> All rights and credits for the base work go to the original author.
 
 ## Features
 
@@ -29,8 +31,3 @@ wa = WhatsApp(api_key='your-api-key')
 wa.send_message(phone_number='1234567890', message='Hello, World!')
 ```
 
-
----
-Developed with ❤️ by Abdelhak Zaaim
-
-[![Follow on GitHub](https://img.shields.io/github/followers/aabdelhak-zaaim?label=Follow&style=social)](https://github.com/abdelhak-zaaim)
